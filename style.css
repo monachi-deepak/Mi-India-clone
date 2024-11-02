@@ -1,0 +1,989 @@
+
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+body
+{
+  height: auto;
+}
+
+.navbar-brand
+{
+    position: relative;
+    top:-5px;
+    left: 370px;
+}
+.navbar
+{
+ background-color: rgb(255, 255, 255);
+}
+.wer
+{
+    position: relative;
+   
+    left: 460px; 
+    
+}
+.st
+{
+    position: relative;
+   
+    left: 100px; 
+
+}
+.wer:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+ .dwh1:hover .dwm1 {
+   
+    display: block;
+}
+
+.dwm1{
+    width: 1700px;
+    height: 300px;
+}
+
+.it1 {
+    position: relative;
+    top: 10px;
+    left: 40px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+.it2{
+    position: relative;
+    top: -340px;
+    left: 350px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+.it3 {
+    position: relative;
+    top: -690px;
+    left: 650px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+.it4 {
+    position: relative;
+    top: -1040px;
+    left: 950px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+
+
+
+
+
+
+
+
+.wer-1
+{
+    position: relative;
+   
+    left: 500px; 
+    
+    
+}
+.wer-1:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.nav-item-0
+{
+    position: relative;
+   
+    left: 320px; 
+}
+
+ .dwh2:hover .dwm2 {
+    
+    display: block;
+}
+
+.dwm2 {
+    width: 1800px;
+    height: 500px;
+}
+.li1:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.it5 {
+    position: relative;
+    top: 10px;
+    left: 40px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+.it6{
+    position: relative;
+    top: -340px;
+    left: 350px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+.it7 {
+    position: relative;
+    top: -690px;
+    left: 650px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+.it8 {
+    position: relative;
+    top: -1040px;
+    left: 950px; 
+
+   
+    width: 350px;
+    height: 350px;
+
+}
+
+
+
+
+
+
+
+
+.wer-3
+{
+    position: relative;
+   
+    left: 530px; 
+    
+    
+}
+.wer-3:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.nav-item-0
+{
+    position: relative;
+   
+    left: 320px; 
+}
+
+ .dwh3:hover .dwm3 {
+    
+    display: block;
+}
+
+.dwm3 {
+    width: 1600px;
+    height: 200px;
+}
+
+.li1{
+    position: relative;
+    top: 10px;
+    left: 40px; 
+
+   
+    
+
+}
+.li1:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.li2{
+    position: relative;
+    top: 20px;
+    left: 40px; 
+
+   
+
+}
+.li2:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.li3 {
+    position: relative;
+    top: 30px;
+    left: 40px; 
+
+   
+
+}
+.li3:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.li4 {
+    position: relative;
+    top: 40px;
+    left: 40px; 
+
+   
+
+}
+.li4:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+
+
+
+
+
+
+
+
+
+
+.wer-4
+{
+    position: relative;
+   
+    left: 560px; 
+    
+    
+}
+.wer-4:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+
+
+ .dwh4:hover .dwm4 {
+    
+    display: block;
+}
+
+.dwm4 {
+    width: 1400px;
+    height: 200px;
+}
+
+.li5{
+    position: relative;
+    top: 10px;
+    left: 40px; 
+
+   
+    
+
+}
+.li5:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.li6{
+    position: relative;
+    top: 20px;
+    left: 40px; 
+
+   
+
+}
+.li6:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.li7 {
+    position: relative;
+    top: 30px;
+    left: 40px; 
+
+   
+
+}
+.li7:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+.li8 {
+    position: relative;
+    top: 40px;
+    left: 40px; 
+
+   
+
+}
+.li8:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+}
+
+
+
+
+
+.wer-discover
+{
+    position: relative;
+   
+    left: 760px; 
+    
+}
+.wer-support
+{
+    position: relative;
+   
+    left: 800px; 
+    
+}
+.wer-support:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+.wer-discover
+{
+    position: relative;
+   
+    left: 760px; 
+    
+}
+.wer-discover:hover
+{
+    color: rgba(240, 81, 18, 0.986);
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+.wer-search
+{
+    position: relative;
+   
+    left: 840px; 
+    
+}
+.wer-cart
+{
+    position: relative;
+   
+    left: 860px; 
+    
+}
+.wer-human
+{
+    position: relative;
+   
+    left: 880px; 
+    
+}
+
+
+
+
+.slideshow-container {
+    position: relative;
+    top:0px;
+    left:0px;
+    height: 600px;
+    width:100%;
+  }
+  
+  .slideshow-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    animation: slideBackgroundRight 15s infinite;
+    background-size: cover;
+    background-position: center;
+  }
+  
+@keyframes slideBackgroundRight {
+    0% { background-image: url('/store/BackG/pik1.png'); }
+    33% { background-image: url('/store/BackG/pik2.png'); }
+    66% { background-image: url('/store/BackG/pik3.png'); }
+    100% { background-image: url('/store/BackG/pik4.png'); }
+  }
+
+  .ftre
+  {
+    font-size:35px;
+    font-weight: Bold;
+    position: relative;
+    left:740px;
+    top:90px;
+  }
+
+
+
+
+
+
+
+
+  
+
+  .dwb1 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:transparent;
+    color: rgba(240, 81, 18, 0.986);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    top: 100px;
+    left:560px
+  }
+  
+  
+  .dwc1 {
+   
+    margin-top: 10px;
+  }
+  
+  
+  .dwb1:focus  + .dwc1{
+    display: block;
+  }
+  
+  .dwc1 img {
+    position: relative;
+    left:200px;
+    top :140px;
+   } 
+
+
+
+
+
+
+  .dwb2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:transparent;
+    color: rgba(0, 0, 0, 0.986);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    top: -690px;
+    left:730px
+  }
+  .dwb2:focus{
+    color: rgba(240, 81, 18, 0.986);
+  }
+  
+  
+  .dwc2 {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  
+  .dwb2:focus  + .dwc2{
+    display: block;
+  }
+  
+  .dwc2 img {
+    position: relative;
+    left:200px;
+    top :-630px;
+   } 
+    
+    
+   .dwb3 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.986);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    top: -690px;
+    left:730px
+  }
+  .dwb3:focus{
+    color: rgba(240, 81, 18, 0.986);
+  }
+  
+  
+  .dwc3 {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  
+  .dwb3:focus  + .dwc3{
+    display: block;
+  }
+  
+  .dwc3 img {
+    position: relative;
+    left:200px;
+    top :-630px;
+   } 
+    
+
+
+
+   .dwb4 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.986);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    top: -690px;
+    left:730px
+  }
+  .dwb4:focus{
+    color: rgba(240, 81, 18, 0.986);
+  }
+  
+  
+  .dwc4 {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  
+  .dwb4:focus  + .dwc4{
+    display: block;
+  }
+  
+  .dwc4 img {
+    position: relative;
+    left:200px;
+    top :-630px;
+   } 
+    
+
+
+
+   .dwb5 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:transparent;
+    color: rgba(0, 0, 0, 0.986);
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    top: -690px;
+    left:730px
+  }
+  .dwb5:focus{
+    color: rgba(240, 81, 18, 0.986);
+  }
+  
+  
+  .dwc5 {
+    display: none;
+    margin-top: 10px;
+  }
+  
+  
+  .dwb5:focus  + .dwc5{
+    display: block;
+  }
+  
+  .dwc5 img {
+    position: relative;
+    left:200px;
+    top :-630px;
+   } 
+    
+
+   .ftre1
+   {
+     font-size:35px;
+     font-weight: Bold;
+     position: relative;
+     left:790px;
+     top:170px;
+   }
+   .pikk1 img
+   {
+    position: relative;
+    left:200px;
+     top:200px;
+     transition: transform 0.0033s ease;
+    
+   }
+   .pikk1:hover
+   {
+    transform: scale(1.01);
+   }
+
+
+   .pikk2 img
+   {
+    position: relative;
+    left:675px;
+     top:-285px;
+     transition: transform 0.0033s ease;
+    
+   }
+   .pikk2:hover
+   {
+    transform: scale(1.01);
+   }
+
+   .pikk3 img
+   {
+    position: relative;
+    left:1150px;
+     top:-770px;
+     transition: transform 0.0033s ease;
+    
+   }
+   .pikk3:hover
+   {
+    transform: scale(1.01);
+   }
+
+   .ftre2
+   {
+     font-size:35px;
+     font-weight: Bold;
+     position: relative;
+     left:790px;
+     top:-650px;
+   }
+   .pikk4 img
+   {
+    position: relative;
+    left:0px;
+     top:-600px;
+     transition: transform 0.0033s ease;
+    
+   }
+   .ftre3
+   {
+     font-size:35px;
+     font-weight: Bold;
+     position: relative;
+     left:790px;
+     top:-500px;
+   }
+   .logo1 img
+   {
+    position: relative;
+    left:0px;
+     top:-450px;
+     
+   }
+
+   .ltr1
+   {
+     font-size:21px;
+     font-weight: Bold;
+     position: relative;
+     
+     left:310px;
+     top:-430px;
+   }
+   .ltr1:hover
+   {
+    color: rgba(240, 81, 18, 0.986);
+   }
+     
+   .ltr2
+   {
+     font-size:21px;
+     font-weight: Bold;
+     position: relative;
+     
+     left:650px;
+     top:-530px;
+   }
+   .ltr2:hover
+   {
+    color: rgba(240, 81, 18, 0.986);
+   }
+     
+    
+   .ltr3
+   {
+     font-size:21px;
+     font-weight: Bold;
+     position: relative;
+     
+     left:1030px;
+     top:-627px;
+   }
+   .ltr3:hover
+   {
+    color: rgba(240, 81, 18, 0.986);
+   }
+     
+    
+   .ltr4
+   {
+     font-size:21px;
+     font-weight: Bold;
+     position: relative;
+     
+     left:1360px;
+     top:-730px;
+   }
+   .ltr4:hover
+   {
+    color: rgba(240, 81, 18, 0.986);
+   }
+     
+
+   .ftrbox {
+    position: relative;
+    top:-600px;
+    width: 100%;     
+    height: 900px;      
+    color: #000000;
+    background-color: rgb(25 25 25); 
+  
+   
+}
+
+.ftr1{
+  position: relative;
+  top:-1400px;
+  left: 250px;
+  font-size: large;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+.ftr11
+{
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 400;
+  color:gray;
+
+}
+.ftr11:hover
+{
+  color: white;
+  text-decoration: underline;
+}
+
+.ftr2{
+  position: relative;
+  top:-2030px;
+  left: 520px;
+  font-size: large;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+.ftr22
+{
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 400;
+  color:gray;
+
+}
+.ftr22:hover
+{
+  color: white;
+  text-decoration: underline;
+}
+
+
+.ftr3{
+  position: relative;
+  top:-2365px;
+  left: 770px;
+  font-size: large;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+.ftr33
+{
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 400;
+  color:gray;
+
+}
+.ftr33:hover
+{
+  color: white;
+  text-decoration: underline;
+}
+
+.ftr4{
+  position: relative;
+  top:-2525px;
+  left: 1020px;
+  font-size: large;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+.ftr44
+{
+  text-decoration: none;
+  font-size: medium;
+  font-weight: 400;
+  color:gray;
+
+}
+.ftr44:hover
+{
+  color: white;
+  text-decoration: underline;
+}
+
+.ftr5{
+  position: relative;
+  top:-3160px;
+  left: 1310px;
+  font-size: medium;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+.ftlogo1 {
+  fill:#ffffff;
+  position: relative;
+  top:-3155px;
+  left: 1300px;
+  width: 43px;
+  height: 43px;
+}
+
+.ftlogo1:hover
+{
+  background-color: white;
+}
+.ftlogo2 {
+  color:#000000;
+  position: relative;
+  top:-3197px;
+  left: 1350px;
+  width: 40px;
+  height: 40px;
+
+
+}
+
+.ftlogo2:hover
+{
+  background-color: white;
+}
+.ftlogo3 {
+  color:#000000;
+  position: relative;
+  top:-3233px;
+  left: 1420px;
+  width: 40px;
+  height: 40px;
+
+}
+
+.ftlogo3:hover
+{
+  background-color: white;
+}
+
+.ftr6{
+  position: relative;
+  top:-3210px;
+  left: 1310px;
+  font-size: medium;
+  font-weight: 700;
+
+  color: rgb(255, 255, 255);
+}
+
+.search-container {
+  display: flex;
+  color: transparent;
+  margin-top: 50px;
+  position: relative;
+  top:-3230px;
+  left: 1310px;
+}
+
+
+.search-bar {
+  width: 400px;
+  padding: 10px 20px;
+  background-color :transparent;
+  border: 3px solid #ffffff;
+  border-radius: 19px; 
+  font-size: 16px;
+  outline: none;
+  transition: border-color 0.3s ease, background-color 0.3s ease; 
+}
+
+.search-bar:focus {
+  border-color: rgba(240, 81, 18, 0.986);
+
+  background-color: transparent;
+}
+
+.ftlogo4 {
+  
+  position: relative;
+  top:-3200px;
+  left: 1300px;
+  
+}
+.ftlogo5 {
+  
+  position: relative;
+  top:-2930px;
+
+  
+}
